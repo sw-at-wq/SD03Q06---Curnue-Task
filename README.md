@@ -35,4 +35,4 @@
 
     To apply Logistic Regression model to classify we call the model using LogisticRegression () function. First, we will train our dataset in Logistic Regression model on       (X_train, y_train) and we will use (X_test, y_test) to evaluate the model generated. Then We build the Logistic Regression model and predict for X_test and compare           prediction to the y_test.
 
-    There we get accuracy of 77% precise classifier using Logistic Regression. To understand the evaluation in more depth we used confusion matrix metric.
+    There we get accuracy of 80% precise classifier using Logistic Regression. To understand the evaluation in more depth we used confusion matrix metric.
